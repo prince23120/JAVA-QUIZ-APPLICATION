@@ -85,8 +85,4 @@
 ## 📄 License
 
 MIT License
-
----
-
-> Made with ANKIT❤️ using Java Swing and SQLite!  
 > _Enjoy the quiz and the animations!_
